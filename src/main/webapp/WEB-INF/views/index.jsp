@@ -13,7 +13,7 @@
 	<p>1.브랜치 초기화 - 특정 지점까지 초기화 하는 기능</p>
 	<p>2.리버스 커밋</p>
 	<p>불필요내용</p>
-	<button>클릭해주세용</button>
+	<button onclick="test()">클릭해주세용</button>
 	
 
 
